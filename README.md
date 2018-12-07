@@ -21,7 +21,6 @@ in the training process. We can therefore expect the trained network to be
 issues such as bias and variance in the resulting model. [1]
 
 # How it use?
------------
 ```sh
 git clone https://github.com/alm4z/python-backprop.git
 cd python-backprop
