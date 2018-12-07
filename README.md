@@ -1,6 +1,6 @@
 # Vanilla backpropagation on Python
 
-A simple Python script showing how the backpropagation algorithm works.
+A simple Python script showing how the backpropagation works.
   - Numpy realization
   - Basic MLP neural network
 
@@ -20,11 +20,19 @@ in the training process. We can therefore expect the trained network to be
 100% accurate in its predictions and there is no need to be concerned with 
 issues such as bias and variance in the resulting model. [1]
 
-# References
-1. Well described XOR problem from [Jayesh Bapu Ahire](https://medium.com/@jayeshbahire/the-xor-problem-in-neural-networks-50006411840b)
+# How it use?
+-----------
+```sh
+git clone https://github.com/alm4z/python-backprop.git
+cd python-backprop
+python backprop.py
+```
 
 # Contact
 If you have any further questions or suggestions, please, do not hesitate to contact  by email at a.sadenov@gmail.com.
+
+# References
+1. Well described XOR problem from [Jayesh Bapu Ahire](https://medium.com/@jayeshbahire/the-xor-problem-in-neural-networks-50006411840b)
 
 # License
 MIT
